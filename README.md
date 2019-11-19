@@ -8,6 +8,7 @@ https://www.udemy.com/
 rxjs
 
 https://academind.com/learn/javascript/understanding-rxjs/
+
 https://academind.com/learn/javascript/rxjs-6-what-changed/
 
 Rxjs operators 
