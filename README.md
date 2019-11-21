@@ -26,3 +26,9 @@ Edu@123456
 
 https://ultimatecourses.com/school
 iy^LWW@nX!oy
+
+Useful Docs:
+
+Firebase Auth REST API Docs: https://firebase.google.com/docs/reference/rest/auth
+
+More on JWT: https://jwt.io
